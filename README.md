@@ -4,7 +4,7 @@
 
 <br>
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=5000&pause=3600000&color=ffc182&center=false&vCenter=true&width=500&height=30&lines=⚒️+Languages+%26+Tools)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=5000&pause=3600000&color=ffc182&center=false&vCenter=true&width=500&height=30&lines=⚒️+Languages+%26+Tools)](https://github.com/bemiux)
 <div style="width: 100vh">
 
 > [![VSCode](https://img.shields.io/badge/vscode-blue.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white)](https://code.visualstudio.com/download)
@@ -24,7 +24,7 @@
 
 <br>
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=5000&pause=3600000&color=82a9ff&center=false&vCenter=true&width=500&height=30&lines=📈+Github+Stats)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=5000&pause=3600000&color=82a9ff&center=false&vCenter=true&width=500&height=30&lines=📈+Github+Stats)](https://github.com/bemiux)
 <div align="left"> 
   <a href='https://github-readme-stats.vercel.app' target='_blank'>
     <img width="430vh" height="130vh" 
