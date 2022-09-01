@@ -6,7 +6,7 @@
 <div style="width: 100vh">
 
 > [![VSCode](https://img.shields.io/badge/vscode-blue.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white)](https://code.visualstudio.com/download)
-[![Figma](https://img.shields.io/badge/figma-e06666?style=for-the-badge&logo=figma&logoColor=white)]()
+[![Figma](https://img.shields.io/badge/figma-e06666?style=for-the-badge&logo=figma&logoColor=white)](https://figma.com/downloads)
 [![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)](https://github.com/bemiux)
 [![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)](https://github.com/bemiux)
 [![TailwindCSS](https://img.shields.io/badge/tailwindcss-0b5394.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/docs/installation)
