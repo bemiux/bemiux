@@ -1,30 +1,30 @@
+# Hi, I'm Bemiux 👋 
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=2500&pause=1300&color=7777FF&center=false&vCenter=true&width=500&height=30&lines=›+UI%2FUX+Designer;›+Frontend+Developer)](https://git.io/typing-svg)
+
+[![Twitter Follow](https://img.shields.io/twitter/follow/bemiux?color=1DA1F2&logo=twitter&style=for-the-badge?)][twitter]
+
+### [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=21&duration=5000&pause=3600000&color=ffc182&center=false&vCenter=true&width=500&height=30&lines=⚒️+Languages+%26+Tools)][github]
+
+[<img align="left" alt="VS Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />][website]
+[<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />][website]
+[<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />][website]
+[<img align="left" alt="TypeScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" style="padding-right:10px;" />][website]
+[<img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />][website]
+[<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />][website]
+[<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />][website]
+[<img align="left" alt="TailwindCSS" width="26px" src="https://api.iconify.design/logos/tailwindcss-icon.svg?color=white&width=64&height=64" style="padding-right:10px;" />][website]
+[<img align="left" alt="NextJS" width="26px" src="https://api.iconify.design/file-icons/nextjs.svg?color=white" style="padding-right:10px;" />][website]
+[<img align="left" alt="NodeJS" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />][website]
+[<img align="left" alt="MongoDB" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="padding-right:10px;" />][website]
+[<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />][website]
+
+<br />
+<br />
+
 <br>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2500&pause=1300&color=7777FF&center=false&vCenter=true&width=500&height=30&lines=›+UI%2FUX+Designer;›+Frontend+Developer)](https://git.io/typing-svg)
-
-<br>
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=5000&pause=3600000&color=ffc182&center=false&vCenter=true&width=500&height=30&lines=⚒️+Languages+%26+Tools)](https://github.com/bemiux)
-<div style="width: 100vh">
-
-> [![VSCode](https://img.shields.io/badge/vscode-blue.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white)](https://code.visualstudio.com/download)
-[![Figma](https://img.shields.io/badge/figma-e06666?style=for-the-badge&logo=figma&logoColor=white)](https://figma.com/downloads)
-[![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)](https://github.com/bemiux)
-[![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)](https://github.com/bemiux)
-[![TailwindCSS](https://img.shields.io/badge/tailwindcss-0b5394.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/docs/installation)
-[![NextJS](https://img.shields.io/badge/NextJS-444443?style=for-the-badge&logo=next.js&logoColor=white)](https://nextjs.org/docs)
-[![React](https://img.shields.io/badge/React-444455?style=for-the-badge&logo=react&logoColor=%2361DAFB)](https://reactjs.org/docs/getting-started.html)
-[![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://vercel.com)
-[![MongoDB](https://img.shields.io/badge/MongoDB-005e19.svg?style=for-the-badge&logo=mongodb&logoColor=64ca37)](https://www.mongodb.com)
-[![Git](https://img.shields.io/badge/Git-orange.svg?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/downloads)
-[![NPM](https://img.shields.io/badge/NPM-561717.svg?style=for-the-badge&logo=npm&logoColor=white)](https://www.npmjs.com)
-[![Yarn](https://img.shields.io/badge/yarn-3d85c6.svg?style=for-the-badge&logo=yarn&logoColor=white)](https://yarnpkg.com)
-
-</div>
-
-<br>
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=5000&pause=3600000&color=82a9ff&center=false&vCenter=true&width=500&height=30&lines=📈+Github+Stats)](https://github.com/bemiux)
+### [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=21&duration=5000&pause=3600000&color=82a9ff&center=false&vCenter=true&width=500&height=30&lines=📈+Github+Stats)][github]
 <div align="left"> 
   <a href='https://github-readme-stats.vercel.app' target='_blank'>
     <img width="430vh" height="130vh" 
@@ -39,3 +39,8 @@
 </div>
 <div align="center"> 
 </div>
+
+[website]: https://bemiux.ga
+[github]: https://github.com/bemiux
+[twitter]: https://twitter.com/intent/follow?original_referer=https://github.com/bemiux&screen_name=bemiux
+[instagram]: https://instagram.com/bemiux
