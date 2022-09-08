@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2500&pause=1300&color=7777FF&center=false&vCenter=true&width=500&height=30&lines=›+UI%2FUX+Designer;›+Frontend+Developer)](https://git.io/typing-svg)
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/bemiux?color=1DA1F2&logo=twitter&style=for-the-badge?)][twitter]
+[![Twitter Follow](https://img.shields.io/twitter/follow/bemiux?color=1DA1F2&logo=twitter&style=for-the-badge)][twitter]
 
 ### [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=21&duration=5000&pause=3600000&color=ffc182&center=false&vCenter=true&width=500&height=30&lines=⚒️+Languages+%26+Tools)][github]
 
@@ -21,8 +21,6 @@
 
 <br />
 <br />
-
-<br>
 
 ### [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=21&duration=5000&pause=3600000&color=82a9ff&center=false&vCenter=true&width=500&height=30&lines=📈+Github+Stats)][github]
 <div align="left"> 
