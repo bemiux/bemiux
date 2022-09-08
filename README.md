@@ -1,6 +1,4 @@
-# Hi, I'm Bemiux 👋 
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2500&pause=1300&color=7777FF&center=false&vCenter=true&width=500&height=30&lines=›+UI%2FUX+Designer;›+Frontend+Developer)](https://git.io/typing-svg)
+# [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2500&pause=1300&color=7777FF&center=false&vCenter=true&width=500&height=30&lines=›+Hi,+I'm+Bemiux+👋;›+UI%2FUX+Designer;›+Frontend+Developer)](https://git.io/typing-svg)
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/bemiux?color=1DA1F2&logo=twitter&style=for-the-badge)][twitter]
 
