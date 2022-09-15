@@ -5,7 +5,8 @@
 
 ### [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=5000&pause=3600000&color=ffc182&center=false&vCenter=true&width=500&height=30&lines=⚒️+Languages+%26+Tools)][github]
 
-[![SkillIcons](https://skillicons.dev/icons?i=vscode,nodejs,js,ts,html,css,tailwind,nextjs,react,mongodb,git,figma,github)](https://bemiux.ga)<br/>
+[![SkillIcons](https://skillicons.dev/icons?i=vscode,js,ts,html,css,tailwind,nodejs,nextjs,react,mongodb,git,figma&perline=6)](https://bemiux.ga)<br/>
+
 <br>
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/bemiux?color=1DA1F2&logo=twitter&style=for-the-badge?)][twitter]
